@@ -20,4 +20,4 @@ I build simple and practical applications using Python while improving my skills
 - Database Integration
 
 ## 🔗 Connect with me
-- LinkedIn: (add your link here)
+- LinkedIn: (http://linkedin.com/in/christian-a828673b9)
