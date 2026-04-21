@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm christian 
 
-<!--
-**Alasko19/Alasko19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Python Developer (Beginner → Growing Fast)
 
-Here are some ideas to get you started:
+I build simple and practical applications using Python while improving my skills daily.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- Python (Functions, Loops, OOP)
+- File Handling
+- SQLite (Learning)
+- Git & GitHub
+
+## 📌 Projects
+- Expense Tracker (file/database)
+- To-Do List App
+- Banking System Simulation
+
+##  Currently Learning
+- Backend Development (Flask)
+- Database Integration
+
+## 🔗 Connect with me
+- LinkedIn: (add your link here)
